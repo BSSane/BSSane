@@ -1,14 +1,11 @@
 <h1 align="center">Heyoo 👋, I'm Ms.Sane.</h1>
-<h3 align="center">Currently is a Data Science 3rd-year student - AI & Machine Learning.</h3>
+<h3 align="center">Currently is a Data Science 4th-year student - AI & Machine Learning.</h3>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=BSSane&label=Profile%20views&color=0e75b6&style=flat" alt="BSSane" /> </p>
 
-- 🔭 I’m currently working on **Regression Project.**
-
-- 🌱 I’m currently learning **Data Analytics and basic of Machine Learning.**
-
-- 💬 Ask me about **python**
+- 🔭 I’m currently working on **various projects in data science cycle, including Data Engineer|Data Analytics|Machine Learning|Deep Learning|Large Language Models|AI Application|**
+- 💬 Ask me about **python|SQL|data warehouse|EDA|Statistical Modeling**
 
 - 📫 How to reach me **bosane524@gmail.com**
 
